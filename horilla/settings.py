@@ -222,6 +222,7 @@ LANGUAGES = (
     ("de", "Deutsche"),
     ("es", "Español"),
     ("fr", "Français"),
+    ("ro", "Română"),
     ("ar", "عربى"),
     ("pt-br", "Português (Brasil)"),
     ("zh-hans", "Simplified Chinese"),
